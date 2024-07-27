@@ -16,7 +16,7 @@ Make sure you have Node.js and npm (or yarn) installed on your machine. You can 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/DanSheremeta/to-do-list/
    cd to-do-list
 
 2. Install dependencies
